@@ -36,6 +36,11 @@ This project educates users about phishing attacks, fake websites, phishing emai
 ### Quiz Section
 ![Quiz](./Screenshot%202026-05-27%20211100.png)
 
+
+## Presentation
+
+[Download PowerPoint Presentation](./Phishing-Awareness-Training.pptx)
+
 ## Learning Outcomes
 
 - Understanding phishing attacks
