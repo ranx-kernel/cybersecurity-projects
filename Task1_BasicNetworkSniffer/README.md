@@ -32,6 +32,7 @@ Scapy
 Tkinter
 Pandas
 Colorama
+
 📂 Project Structure
 Task1_BasicNetworkSniffer/
 │
@@ -46,6 +47,7 @@ Task1_BasicNetworkSniffer/
 │   └── statistics.png
 │
 └── README.md
+
 ▶️ Installation & Setup
 Step 1 — Clone Repository
 git clone https://github.com/yourusername/codealpha_tasks.git
@@ -55,6 +57,7 @@ Step 3 — Install Required Libraries
 pip install -r requirements.txt
 Step 4 — Run the GUI Sniffer
 python gui_sniffer.py
+
 📸 Screenshots
 GUI Dashboard
 ![Dashboard](./screenshots/Screenshot 2026-05-26 221545.png)
@@ -69,6 +72,7 @@ Destination IP   : 20.xx.xx.xx
 Protocol         : TCP
 Source Port      : 52683
 Destination Port : 443
+
 🎯 Purpose of the Project
 
 The purpose of this project is to:
@@ -78,6 +82,7 @@ Analyze network packets in real time
 Learn cybersecurity monitoring concepts
 Study protocols such as TCP, UDP, and ICMP
 Build practical hands-on cybersecurity skills
+
 🔐 Real-World Applications
 
 This project demonstrates concepts used in:
@@ -88,6 +93,7 @@ Ethical Hacking
 Traffic Analysis
 Security Operations Center (SOC)
 Intrusion Detection Systems (IDS)
+
 🧠 Skills Gained
 
 Through this project, the following skills were developed:
