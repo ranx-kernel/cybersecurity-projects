@@ -1,0 +1,1946 @@
+
+=============== Packet #1 ===============
+Timestamp        : 2026-05-26 22:02:28
+Source IP        : 192.168.1.11
+Destination IP   : 224.0.0.22
+Protocol         : Other
+Payload Preview  : b'F\x00\x00(>\x1a\x00\x00\x01\x02D\xec\xc0\xa8\x01\x0b\xe0\x00\x00\x16\x94\x04\x00\x00"\x00\xec\x03\x00\x00\x00\x01\x02\x00\x00\x00\xef\xff\xff\xfa'
+
+
+=============== Packet #2 ===============
+Timestamp        : 2026-05-26 22:02:28
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x004\n\t@\x00\x80\x06;\xc9\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xb4\xc3\x00\x00\x00\x00\x80\x02\xff\xff+\xcf\x00\x00\x02\x04\x05\xb4\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #3 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x004\x85\x16@\x00m\x06\xd3\xbb3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE UTy\xeb\x8a\xb4\xc4\x80\x12\xff\xff\xb7\x03\x00\x00\x02\x04\x05\xa0\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #4 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\n@\x00\x80\x06;\xd4\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xb4\xc4 UTzP\x10\x00\xff\xf6\xc3\x00\x00'
+
+
+=============== Packet #5 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n\x0b@\x00\x80\x0663\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xb4\xc4 UTzP\x10\x00\xff\xe4\xbc\x00\x00\x16\x03\x01\x07\x88\x01\x00\x07\x84\x03'
+
+
+=============== Packet #6 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x02\x15\n\x0c@\x00\x80\x069\xe5\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbad UTzP\x18\x00\xff\xf0\x86\x00\x00\xcb\r\xc9\x02\x7f{\x8c\xff\xa23'
+
+
+=============== Packet #7 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85\x17@\x00m\x06\xd3\xc63\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE UTz\xeb\x8a\xbcQP\x10@\x01\xb04\x00\x00'
+
+
+=============== Packet #8 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00\x8b\x85\x18@\x00m\x06\xd3b3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE UTz\xeb\x8a\xbcQP\x18@\x01O\xab\x00\x00\x16\x03\x03\x00X\x02\x00\x00T\x03'
+
+
+=============== Packet #9 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x033\n\r@\x00\x80\x068\xc6\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbcQ UT\xddP\x18\x00\xff\x98\x83\x00\x00\x14\x03\x03\x00\x01\x01\x16\x03\x03\x03'
+
+
+=============== Packet #10 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05\xc8\x85\x19@\x00m\x06\xce$3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE UT\xdd\xeb\x8a\xbf\\P\x10?\xfe\xf2*\x00\x00\x16\x03\x03\x00\xbb\x02\x00\x00\xb7\x03'
+
+
+=============== Packet #11 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05\xc8\x85\x1a@\x00m\x06\xce#3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE UZ}\xeb\x8a\xbf\\P\x10?\xfe\xc8\x82\x00\x00\xe6ZE\x9b&c+\x8a\xa52'
+
+
+=============== Packet #12 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05\xc8\x85\x1b@\x00m\x06\xce"3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE U`\x1d\xeb\x8a\xbf\\P\x10?\xfe\x995\x00\x00\xda\x17\xb6/\xb9\x94\x94{&\t'
+
+
+=============== Packet #13 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\x0e@\x00\x80\x06;\xd0\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbf\\ Ue\xbdP\x10\x00\xff\xda\xe8\x00\x00'
+
+
+=============== Packet #14 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05\xc8\x85\x1c@\x00m\x06\xce!3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Ue\xbd\xeb\x8a\xbf\\P\x10?\xfe\xdd\xee\x00\x00z\x1a\xf1i\x03\x87K\xc3\x88\x85'
+
+
+=============== Packet #15 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05\xc8\x85\x1d@\x00m\x06\xce 3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uk]\xeb\x8a\xbf\\P\x10?\xfeHo\x00\x00\xd6\xd8\x93\xd3F%Q\xbbH\x8c'
+
+
+=============== Packet #16 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\x0f@\x00\x80\x06;\xcf\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbf\\ Up\xfdP\x10\x00\xff\xcf\xa8\x00\x00'
+
+
+=============== Packet #17 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x05G\x85\x1e@\x00m\x06\xce\xa03\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Up\xfd\xeb\x8a\xbf\\P\x18?\xfe5h\x00\x00\xe0r\x80\xa2\x95(\xaf^G\xfe'
+
+
+=============== Packet #18 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\x10@\x00\x80\x06;\xce\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbf\\ Uv\x1cP\x10\x00\xfa\xca\x8e\x00\x00'
+
+
+=============== Packet #19 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00r\n\x11@\x00\x80\x06;\x83\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbf\\ Uv\x1cP\x18\x00\xfa.h\x00\x00\x17\x03\x03\x00E@\x87\xc8\x8c\x07'
+
+
+=============== Packet #20 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00\x84\n\x12@\x00\x80\x06;p\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xbf\xa6 Uv\x1cP\x18\x00\xfa\xc5\xf6\x00\x00\x17\x03\x03\x00Wu\xe3\xf7\x99\x88'
+
+
+=============== Packet #21 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x02\x13\n\x13@\x00\x80\x069\xe0\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xc0\x02 Uv\x1cP\x18\x00\xfa\xbbc\x00\x00\x17\x03\x03\x01\xe6\xd9\xb6\xd3\x93+'
+
+
+=============== Packet #22 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n\x14@\x00\x80\x066*\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xc1\xed Uv\x1cP\x10\x00\xfa\x93B\x00\x00\x17\x03\x03\x1d`2\xa4\x0bH\xbb'
+
+
+=============== Packet #23 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n\x15@\x00\x80\x066)\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xc7\x8d Uv\x1cP\x10\x00\xfa{J\x00\x00\xdb\x07\x95\xc7\xc0\xac\xf2u\xc3\xfe'
+
+
+=============== Packet #24 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n\x16@\x00\x80\x066(\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xcd- Uv\x1cP\x10\x00\xfal\xd8\x00\x00\xbcW7\x80\x11\x0by|z\xa0'
+
+
+=============== Packet #25 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b"E\x00\x05\xc8\n\x17@\x00\x80\x066'\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xd2\xcd Uv\x1cP\x10\x00\xfa\x9a\xd8\x00\x00\xf5\xbeS\x1f\x8fW\x9d\x05A,"
+
+
+=============== Packet #26 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n\x18@\x00\x80\x066&\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xd8m Uv\x1cP\x10\x00\xfa\xd7F\x00\x00E\xfc\x027[\xf92\x9c\xba\xde'
+
+
+=============== Packet #27 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x01m\n\x19@\x00\x80\x06:\x80\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xde\r Uv\x1cP\x18\x00\xfa\xe5`\x00\x00\x04\xb9".M\xf7\xed\x9b\xc2z'
+
+
+=============== Packet #28 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x004\n\x1a@\x00\x80\x06;\xb8\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xeb`\x00\x00\x00\x00\x80\x02\xff\xffh\xbb\x00\x00\x02\x04\x05\xb4\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #29 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 52676
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\xa0\x1b@\x00\x80\x06\x1cm\xc0\xa8\x01\x0b\r\xdan\xba\xcd\xc4\x01\xbb<\t\xa8\xb5\xce\xf7\x08\xabP\x11\x03\xfe\xe1\xac\x00\x00'
+
+
+=============== Packet #30 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 52676
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\xa0\x1c@\x00\x80\x06\x1cl\xc0\xa8\x01\x0b\r\xdan\xba\xcd\xc4\x01\xbb<\t\xa8\xb6\xce\xf7\x08\xabP\x14\x00\x00\xe5\xa6\x00\x00'
+
+
+=============== Packet #31 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x004\xa0\x1d@\x00\x80\x06\x1c_\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf4\xd0\x00\x00\x00\x00\x80\x02\xff\xffF\xb5\x00\x00\x02\x04\x05\xb4\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #32 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x004\x93\xcc@\x00m\x06\xc5\x053\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\x9f#x\x00\xeba\x80\x12\xff\xffc\x94\x00\x00\x02\x04\x05\xa0\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #33 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85\x1f@\x00m\x06\xd3\xbe3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\x1c\xeb\x8a\xc0\x02P\x10?\xfd\x8a\xe5\x00\x00'
+
+
+=============== Packet #34 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85 @\x00m\x06\xd3\xbd3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\x1c\xeb\x8a\xc7\x8dP\x10@\x01\x83V\x00\x00'
+
+
+=============== Packet #35 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85!@\x00m\x06\xd3\xbc3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\x1c\xeb\x8a\xd2\xcdP\x10@\x01x\x16\x00\x00'
+
+
+=============== Packet #36 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00\x8f\x85"@\x00m\x06\xd3T3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\x1c\xeb\x8a\xd2\xcdP\x18@\x01\xed#\x00\x00\x17\x03\x03\x00b\xa4\x1c\xe6\x81\\'
+
+
+=============== Packet #37 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00f\x85#@\x00m\x06\xd3|3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\x83\xeb\x8a\xd2\xcdP\x18@\x01\xb8\xbd\x00\x00\x17\x03\x03\x009\x1b\x10\xb4Q\x06'
+
+
+=============== Packet #38 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00G\x85$@\x00m\x06\xd3\x9a3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\xc1\xeb\x8a\xdfRP\x18@\x01zl\x00\x00\x17\x03\x03\x00\x1a$W+\xc0\x11'
+
+
+=============== Packet #39 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\x1b@\x00\x80\x06;\xc3\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xebaf\x06\x9f$P\x10\x00\xff\xa3T\x00\x00'
+
+
+=============== Packet #40 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n\x1c@\x00\x80\x06;\xc2\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xdfR Uv\xe0P\x10\x00\xff\xa9\xcf\x00\x00'
+
+
+=============== Packet #41 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x02-\n\x1d@\x00\x80\x069\xbc\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xebaf\x06\x9f$P\x18\x00\xff\x9b{\x00\x00\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03'
+
+
+=============== Packet #42 ===============
+Timestamp        : 2026-05-26 22:02:29
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b"E\x00\x00G\n\x1e@\x00\x80\x06;\xa1\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xdfR Uv\xe0P\x18\x00\xff\x97'\x00\x00\x17\x03\x03\x00\x1a\x00\xe6\xc4ln"
+
+
+=============== Packet #43 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x00\x8b\x93\xcd@\x00m\x06\xc4\xad3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\x9f$x\x00\xedfP\x18?\xfffc\x00\x00\x16\x03\x03\x00X\x02\x00\x00T\x03'
+
+
+=============== Packet #44 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x01A\x85%@\x00m\x06\xd2\x9f3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE Uv\xe0\xeb\x8a\xdfqP\x18@\x01\xf73\x00\x00\x17\x03\x03\x01\x14\x7fWli\x08'
+
+
+=============== Packet #45 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x01\xdd\n\x1f@\x00\x80\x06:\n\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xedff\x06\x9f\x87P\x18\x00\xff\x13\xb0\x00\x00\x14\x03\x03\x00\x01\x01\x16\x03\x03\x01'
+
+
+=============== Packet #46 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n @\x00\x80\x06;\xbe\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8a\xdfq Uw\xf9P\x10\x00\xfe\xa8\x98\x00\x00'
+
+
+=============== Packet #47 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b'E\x00\x004\x00\x00@\x007\x06\x05}\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI/R\x07@\xf4\xd1\x80\x12i\x03\x8f\x19\x00\x00\x02\x04\x05\xa0\x01\x01\x04\x02\x01\x03'
+
+
+=============== Packet #48 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\xa0\x1e@\x00\x80\x06\x1cj\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf4\xd1\x1fI/SP\x10\x04\x004\xdc\x00\x00'
+
+
+=============== Packet #49 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x01\xfb\xa0\x1f@\x00\x80\x06\x1a\x96\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf4\xd1\x1fI/SP\x18\x04\x00\xe5\x1d\x00\x00\x16\x03\x01\x01\xce\x01\x00\x01\xca\x03'
+
+
+=============== Packet #50 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 4.213.25.242
+Protocol         : TCP
+Source Port      : 49415
+Destination Port : 443
+Payload Preview  : b'E\x00\x00\x8d\xc6\xe7@\x00\x80\x06S\t\xc0\xa8\x01\x0b\x04\xd5\x19\xf2\xc1\x07\x01\xbb\xe5r\xd4N\xdd\xa2\x1f^P\x18\x00\xfb\x0f9\x00\x00\x17\x03\x03\x00`\x00\x00\x00\x00\x00'
+
+
+=============== Packet #51 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 4.213.25.242
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 49415
+Payload Preview  : b'E\x00\x00\xd3\xe1\xdd@\x00q\x06F\xcd\x04\xd5\x19\xf2\xc0\xa8\x01\x0b\x01\xbb\xc1\x07\xdd\xa2\x1f^\xe5r\xd4\xb3P\x18\x1c\xb7\x90\xdf\x00\x00\x17\x03\x03\x00\xa6\x00\x00\x00\x00\x00'
+
+
+=============== Packet #52 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x05\xc8\x93\xce@\x00m\x06\xbfo3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\x9f\x87x\x00\xef\x1bP\x10?\xfdb\x1d\x00\x00\x16\x03\x03\x00\xbb\x02\x00\x00\xb7\x03'
+
+
+=============== Packet #53 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x05\xc8\x93\xcf@\x00m\x06\xbfn3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xa5\'x\x00\xef\x1bP\x10?\xfd\xa6>\x00\x00/\xda\xa0\x02\x15\xeaV\xe8"\x18'
+
+
+=============== Packet #54 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x05\xc8\x93\xd0@\x00m\x06\xbfm3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xaa\xc7x\x00\xef\x1bP\x10?\xfd\xb7\xdc\x00\x00\xbc0p\xb6\xfd\xae\x19\xf8\x17\xff'
+
+
+=============== Packet #55 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n!@\x00\x80\x06;\xbd\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xef\x1bf\x06\xb0gP\x10\x00\xff\x8eW\x00\x00'
+
+
+=============== Packet #56 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x05\xc8\x93\xd1@\x00m\x06\xbfl3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xb0gx\x00\xef\x1bP\x10?\xfdEI\x00\x00\x90Cm\xee\xf6\xf4\xf1\x11\x95\x8a'
+
+
+=============== Packet #57 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x03\x97\x93\xd2@\x00m\x06\xc1\x9c3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xb6\x07x\x00\xef\x1bP\x18?\xfd$L\x00\x00E9S\xa2\x00\xe8q\x93\xfb\xf7'
+
+
+=============== Packet #58 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n"@\x00\x80\x06;\xbc\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xef\x1bf\x06\xb9vP\x10\x00\xff\x85H\x00\x00'
+
+
+=============== Packet #59 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\n#@\x00\x80\x066\x1b\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xef\x1bf\x06\xb9vP\x10\x00\xff\xca\x9d\x00\x00\x17\x03\x03\x00Ew\xa6\x88%g'
+
+
+=============== Packet #60 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x02\xb0\n$@\x00\x80\x0692\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xf4\xbbf\x06\xb9vP\x18\x00\xff8%\x00\x00X\xb3\x99\xbdC\xfdU\x86\x19\xcf'
+
+
+=============== Packet #61 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 4.213.25.242
+Protocol         : TCP
+Source Port      : 49415
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\xc6\xe8@\x00\x80\x06Sm\xc0\xa8\x01\x0b\x04\xd5\x19\xf2\xc1\x07\x01\xbb\xe5r\xd4\xb3\xdd\xa2 \tP\x10\x00\xfaS\xcb\x00\x00'
+
+
+=============== Packet #62 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b"E\x00\x00(Ja@\x007\x06\xbb'\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI/S\x07@\xf6\xa4P\x10\x00n6\x9b\x00\x00"
+
+
+=============== Packet #63 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b'E\x00\x05\xc8Jb@\x007\x06\xb5\x86\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI/S\x07@\xf6\xa4P\x10\x00nm\x83\x00\x00\x16\x03\x03\x00P\x02\x00\x00L\x03'
+
+
+=============== Packet #64 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b'E\x00\x05\xc8Jc@\x007\x06\xb5\x85\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI4\xf3\x07@\xf6\xa4P\x10\x00n\xb1\xa0\x00\x00Z"\xbf\x7f\xd5\xb5\xadv\x9a\xd9'
+
+
+=============== Packet #65 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b'E\x00\x05\xc8Jd@\x007\x06\xb5\x84\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI:\x93\x07@\xf6\xa4P\x10\x00n\x8fA\x00\x00\x03U\x1d\x1f\x04;0907'
+
+
+=============== Packet #66 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 13.218.110.186
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60487
+Payload Preview  : b'E\x00\x01\x0cJe@\x007\x06\xba?\r\xdan\xba\xc0\xa8\x01\x0b\x01\xbb\xecG\x1fI@3\x07@\xf6\xa4P\x18\x00n\x07;\x00\x00\xaa\x81\x8c\xe7u\x99\x10>\xaf\x0b'
+
+
+=============== Packet #67 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\xa0 @\x00\x80\x06\x1ch\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf6\xa4\x1fIA\x17P\x10\x04\x00!E\x00\x00'
+
+
+=============== Packet #68 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x00\xa6\xa0!@\x00\x80\x06\x1b\xe9\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf6\xa4\x1fIA\x17P\x18\x04\x003|\x00\x00\x16\x03\x03\x00F\x10\x00\x00BA'
+
+
+=============== Packet #69 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 13.218.110.186
+Protocol         : TCP
+Source Port      : 60487
+Destination Port : 443
+Payload Preview  : b'E\x00\x00\xb5\xa0"@\x00\x80\x06\x1b\xd9\xc0\xa8\x01\x0b\r\xdan\xba\xecG\x01\xbb\x07@\xf7"\x1fIA\x17P\x18\x04\x00tz\x00\x00\x17\x03\x03\x00\x88\x00\x00\x00\x00\x00'
+
+
+=============== Packet #70 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x00(\x93\xd3@\x00m\x06\xc5\n3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xb9vx\x00\xf7CP\x10@\x01>\x1e\x00\x00'
+
+
+=============== Packet #71 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x00\x8f\x93\xd4@\x00m\x06\xc4\xa23\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xb9vx\x00\xf7CP\x18@\x01\xcf\x0e\x00\x00\x17\x03\x03\x00b\xf2\xb7\x99\xc2I'
+
+
+=============== Packet #72 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x01\xf9\x93\xd5@\x00m\x06\xc373\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xb9\xddx\x00\xf7CP\x19@\x01\xde\x9e\x00\x00\x17\x03\x03\x01\xcc\xad\x86T\xcc\t'
+
+
+=============== Packet #73 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\n%@\x00\x80\x06;\xb9\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xf7Cf\x06\xbb\xafP\x10\x00\xfdz\xe9\x00\x00'
+
+
+=============== Packet #74 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b'E\x00\x00@\n&@\x00\x80\x06;\xa0\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xf7Cf\x06\xbb\xafP\x18\x00\xfd\xe1\xe2\x00\x00\x17\x03\x03\x00\x13\xe8\xa9\xd9\x03\x0c'
+
+
+=============== Packet #75 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60486
+Destination Port : 443
+Payload Preview  : b"E\x00\x00(\n'@\x00\x80\x06;\xb7\xc0\xa8\x01\x0b3\x0b\xc03\xecF\x01\xbbx\x00\xf7[f\x06\xbb\xafP\x11\x00\xfdz\xd0\x00\x00"
+
+
+=============== Packet #76 ===============
+Timestamp        : 2026-05-26 22:02:30
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60486
+Payload Preview  : b'E\x00\x00(\x93\xd6@\x00m\x06\xc5\x073\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecFf\x06\xbb\xafx\x00\xf7\\P\x10@\x01;\xcc\x00\x00'
+
+
+=============== Packet #1 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00\x98\np@\x00\x80\x06:\xfe\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\x8aF U}\x9eP\x18\x00\xfe\xb0\xeb\x00\x00\x17\x03\x03\x00k=\x82\x850\xf4'
+
+
+=============== Packet #2 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\nq@\x00\x80\x065\xcd\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\x8a\xb6 U}\x9eP\x10\x00\xfeE\xeb\x00\x00\x17\x03\x03\x1d`}\x88hfc'
+
+
+=============== Packet #3 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\nr@\x00\x80\x065\xcc\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\x90V U}\x9eP\x10\x00\xfe\x8e\xcc\x00\x00&\x9cui\xdf\x98\xe1K\x9e$'
+
+
+=============== Packet #4 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\ns@\x00\x80\x065\xcb\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\x95\xf6 U}\x9eP\x10\x00\xfe\x8a\x06\x00\x00\\\x81\xdb\xdc\xd9/k;q\x0e'
+
+
+=============== Packet #5 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b"E\x00\x05\xc8\nt@\x00\x80\x065\xca\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\x9b\x96 U}\x9eP\x10\x00\xfe \xde\x00\x00'\xe1\xb71\rM\x86\x1bj\xde"
+
+
+=============== Packet #6 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x05\xc8\nu@\x00\x80\x065\xc9\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\xa16 U}\x9eP\x10\x00\xfe\x17/\x00\x00W\x0b\x0e\xd2|]x\xc4k\xd7'
+
+
+=============== Packet #7 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x01m\nv@\x00\x80\x06:#\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\xa6\xd6 U}\x9eP\x18\x00\xfe\xfbf\x00\x00 \xf1\n\x9f\x1d\x14\xef\xe2\xe2y'
+
+
+=============== Packet #8 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85^@\x00m\x06\xd3\x7f3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE U}\x9e\xeb\x8b\x95\xf6P\x10@\x01\xadj\x00\x00'
+
+
+=============== Packet #9 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85_@\x00m\x06\xd3~3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE U}\x9e\xeb\x8b\x9b\x96P\x10@\x01\xa7\xca\x00\x00'
+
+
+=============== Packet #10 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00(\x85`@\x00m\x06\xd3}3\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE U}\x9e\xeb\x8b\xa6\xd6P\x10@\x01\x9c\x8a\x00\x00'
+
+
+=============== Packet #11 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 51.11.192.51
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 60485
+Payload Preview  : b'E\x00\x00\x8b\x85a@\x00m\x06\xd3\x193\x0b\xc03\xc0\xa8\x01\x0b\x01\xbb\xecE U}\x9e\xeb\x8b\xa8\x1bP\x18@\x00\xe5\x85\x00\x00\x17\x03\x03\x00^1\xf6+\x87\x14'
+
+
+=============== Packet #12 ===============
+Timestamp        : 2026-05-26 22:05:11
+Source IP        : 192.168.1.11
+Destination IP   : 51.11.192.51
+Protocol         : TCP
+Source Port      : 60485
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(\nw@\x00\x80\x06;g\xc0\xa8\x01\x0b3\x0b\xc03\xecE\x01\xbb\xeb\x8b\xa8\x1b U~\x01P\x10\x00\xfe\xd9\xe5\x00\x00'
+
+
+=============== Packet #13 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.11
+Destination IP   : 20.42.65.93
+Protocol         : TCP
+Source Port      : 61623
+Destination Port : 443
+Payload Preview  : b'E\x00\x004;\x9d@\x00\x80\x06\xa7\xec\xc0\xa8\x01\x0b\x14*A]\xf0\xb7\x01\xbb\xbcsO\x1a\x00\x00\x00\x00\x80\x02\xff\xffY\xd5\x00\x00\x02\x04\x05\xb4\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #14 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.1
+Destination IP   : 239.255.255.250
+Protocol         : Other
+Payload Preview  : b'F\x00\x00$\x00\x00@\x00\x01\x0230\xc0\xa8\x01\x01\xef\xff\xff\xfa\x94\x04\x00\x00\x11\x03\xf4\xe3\xef\xff\xff\xfa\n\x1e\x00\x00'
+
+
+=============== Packet #15 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.2
+Destination IP   : 224.0.0.22
+Protocol         : Other
+Payload Preview  : b'F\xc0\x00(\x00\x00@\x00\x01\x02BO\xc0\xa8\x01\x02\xe0\x00\x00\x16\x94\x04\x00\x00"\x00\xec\x03\x00\x00\x00\x01\x02\x00\x00\x00\xef\xff\xff\xfa'
+
+
+=============== Packet #16 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 20.42.65.93
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 61623
+Payload Preview  : b'E\x00\x004\xb1\xc7@\x00e\x06L\xc2\x14*A]\xc0\xa8\x01\x0b\x01\xbb\xf0\xb7\x19\n\xbd\x9c\xbcsO\x1b\x80\x12\xff\xff\x831\x00\x00\x02\x04\x05\xa0\x01\x03\x03\x08\x01\x01'
+
+
+=============== Packet #17 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.11
+Destination IP   : 20.42.65.93
+Protocol         : TCP
+Source Port      : 61623
+Destination Port : 443
+Payload Preview  : b'E\x00\x00(;\x9e@\x00\x80\x06\xa7\xf7\xc0\xa8\x01\x0b\x14*A]\xf0\xb7\x01\xbb\xbcsO\x1b\x19\n\xbd\x9dP\x10\x00\xff\xc2\xf1\x00\x00'
+
+
+=============== Packet #18 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.11
+Destination IP   : 20.42.65.93
+Protocol         : TCP
+Source Port      : 61623
+Destination Port : 443
+Payload Preview  : b'E\x00\x02-;\x9f@\x00\x80\x06\xa5\xf1\xc0\xa8\x01\x0b\x14*A]\xf0\xb7\x01\xbb\xbcsO\x1b\x19\n\xbd\x9dP\x18\x00\xff\xf0\x11\x00\x00\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03'
+
+
+=============== Packet #19 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.11
+Destination IP   : 224.0.0.22
+Protocol         : Other
+Payload Preview  : b'F\x00\x00(>b\x00\x00\x01\x02D\xa4\xc0\xa8\x01\x0b\xe0\x00\x00\x16\x94\x04\x00\x00"\x00\xec\x03\x00\x00\x00\x01\x02\x00\x00\x00\xef\xff\xff\xfa'
+
+
+=============== Packet #20 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 20.42.65.93
+Destination IP   : 192.168.1.11
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 61623
+Payload Preview  : b'E\x00\x00\x8b\xb1\xc8@\x00e\x06Lj\x14*A]\xc0\xa8\x01\x0b\x01\xbb\xf0\xb7\x19\n\xbd\x9d\xbcsQ P\x18?\xffd\x07\x00\x00\x16\x03\x03\x00X\x02\x00\x00T\x03'
+
+
+=============== Packet #21 ===============
+Timestamp        : 2026-05-26 22:05:12
+Source IP        : 192.168.1.11
+Destination IP   : 20.42.65.93
+Protocol         : TCP
+Source Port      : 61623
+Destination Port : 443
+Payload Preview  : b'E\x00\x01\xdd;\xa0@\x00\x80\x06\xa6@\xc0\xa8\x01\x0b\x14*A]\xf0\xb7\x01\xbb\xbcsQ \x19\n\xbe\x00P\x18\x00\xff\xd5(\x00\x00\x14\x03\x03\x00\x01\x01\x16\x03\x03\x01'
+
+
+Packet #1
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #2
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 104.208.16.91
+Protocol: TCP
+Source Port: 55211
+Destination Port: 443
+
+Packet #3
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 104.208.16.91
+Protocol: TCP
+Source Port: 55211
+Destination Port: 443
+
+Packet #4
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 104.208.16.91
+Protocol: TCP
+Source Port: 55211
+Destination Port: 443
+
+Packet #5
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #6
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #7
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #8
+Timestamp: 2026-05-26 22:10:10
+Source IP: 104.208.16.91
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55211
+
+Packet #9
+Timestamp: 2026-05-26 22:10:10
+Source IP: 104.208.16.91
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55211
+
+Packet #10
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 104.208.16.91
+Protocol: TCP
+Source Port: 55211
+Destination Port: 443
+
+Packet #11
+Timestamp: 2026-05-26 22:10:10
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #12
+Timestamp: 2026-05-26 22:10:10
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #13
+Timestamp: 2026-05-26 22:10:11
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #14
+Timestamp: 2026-05-26 22:10:11
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #15
+Timestamp: 2026-05-26 22:10:12
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #16
+Timestamp: 2026-05-26 22:10:12
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #17
+Timestamp: 2026-05-26 22:10:12
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.252
+Protocol: UDP
+Source Port: 54226
+Destination Port: 5355
+
+Packet #18
+Timestamp: 2026-05-26 22:10:13
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.252
+Protocol: UDP
+Source Port: 54226
+Destination Port: 5355
+
+Packet #19
+Timestamp: 2026-05-26 22:10:13
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #20
+Timestamp: 2026-05-26 22:10:13
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #21
+Timestamp: 2026-05-26 22:10:13
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #22
+Timestamp: 2026-05-26 22:10:13
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #1
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #2
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #3
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #4
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #5
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #6
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #7
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #8
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #9
+Timestamp: 2026-05-26 22:10:41
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #10
+Timestamp: 2026-05-26 22:10:41
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #11
+Timestamp: 2026-05-26 22:10:42
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #12
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #13
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #14
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #15
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #16
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #17
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #18
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #19
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #20
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #21
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #22
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 58656
+Destination Port: 443
+
+Packet #23
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #24
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58656
+
+Packet #25
+Timestamp: 2026-05-26 22:10:42
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #26
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #27
+Timestamp: 2026-05-26 22:10:42
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #28
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #29
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #30
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #31
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #32
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #33
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #34
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #35
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #36
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #37
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #38
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #39
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #40
+Timestamp: 2026-05-26 22:10:43
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55224
+
+Packet #41
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #42
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #43
+Timestamp: 2026-05-26 22:10:43
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #44
+Timestamp: 2026-05-26 22:10:44
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #45
+Timestamp: 2026-05-26 22:10:44
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #46
+Timestamp: 2026-05-26 22:10:44
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #47
+Timestamp: 2026-05-26 22:10:44
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #48
+Timestamp: 2026-05-26 22:10:45
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #49
+Timestamp: 2026-05-26 22:10:46
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #50
+Timestamp: 2026-05-26 22:10:47
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #51
+Timestamp: 2026-05-26 22:10:47
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #52
+Timestamp: 2026-05-26 22:10:47
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #53
+Timestamp: 2026-05-26 22:10:48
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #54
+Timestamp: 2026-05-26 22:10:50
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #55
+Timestamp: 2026-05-26 22:10:50
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #56
+Timestamp: 2026-05-26 22:10:50
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #57
+Timestamp: 2026-05-26 22:10:51
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #58
+Timestamp: 2026-05-26 22:10:51
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #59
+Timestamp: 2026-05-26 22:10:51
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #60
+Timestamp: 2026-05-26 22:10:51
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #61
+Timestamp: 2026-05-26 22:10:53
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #62
+Timestamp: 2026-05-26 22:10:53
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #63
+Timestamp: 2026-05-26 22:10:53
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #64
+Timestamp: 2026-05-26 22:10:53
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #65
+Timestamp: 2026-05-26 22:10:55
+Source IP: 192.168.1.1
+Destination IP: 224.0.0.1
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #66
+Timestamp: 2026-05-26 22:10:55
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #67
+Timestamp: 2026-05-26 22:10:55
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #68
+Timestamp: 2026-05-26 22:10:56
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #69
+Timestamp: 2026-05-26 22:10:56
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #70
+Timestamp: 2026-05-26 22:10:56
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #71
+Timestamp: 2026-05-26 22:10:59
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #72
+Timestamp: 2026-05-26 22:10:59
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #73
+Timestamp: 2026-05-26 22:10:59
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #74
+Timestamp: 2026-05-26 22:11:00
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #75
+Timestamp: 2026-05-26 22:11:00
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #76
+Timestamp: 2026-05-26 22:11:00
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #77
+Timestamp: 2026-05-26 22:11:00
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #78
+Timestamp: 2026-05-26 22:11:02
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #79
+Timestamp: 2026-05-26 22:11:02
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #80
+Timestamp: 2026-05-26 22:11:02
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55224
+Destination Port: 443
+
+Packet #81
+Timestamp: 2026-05-26 22:11:02
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #82
+Timestamp: 2026-05-26 22:11:03
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #83
+Timestamp: 2026-05-26 22:11:03
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #84
+Timestamp: 2026-05-26 22:11:04
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #85
+Timestamp: 2026-05-26 22:11:04
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #86
+Timestamp: 2026-05-26 22:11:04
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #87
+Timestamp: 2026-05-26 22:11:04
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #88
+Timestamp: 2026-05-26 22:11:04
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #89
+Timestamp: 2026-05-26 22:11:04
+Source IP: 192.168.1.11
+Destination IP: 13.89.179.11
+Protocol: TCP
+Source Port: 55223
+Destination Port: 443
+
+Packet #90
+Timestamp: 2026-05-26 22:11:04
+Source IP: 13.89.179.11
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 55223
+
+Packet #91
+Timestamp: 2026-05-26 22:11:05
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #92
+Timestamp: 2026-05-26 22:11:05
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #93
+Timestamp: 2026-05-26 22:11:05
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #94
+Timestamp: 2026-05-26 22:11:05
+Source IP: 192.168.1.11
+Destination IP: 57.144.57.32
+Protocol: TCP
+Source Port: 58079
+Destination Port: 443
+
+Packet #95
+Timestamp: 2026-05-26 22:11:05
+Source IP: 57.144.57.32
+Destination IP: 192.168.1.11
+Protocol: TCP
+Source Port: 443
+Destination Port: 58079
+
+Packet #96
+Timestamp: 2026-05-26 22:11:05
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #97
+Timestamp: 2026-05-26 22:11:05
+Source IP: 192.168.1.1
+Destination IP: 224.0.0.1
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #98
+Timestamp: 2026-05-26 22:11:08
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #99
+Timestamp: 2026-05-26 22:11:08
+Source IP: 192.168.1.1
+Destination IP: 239.255.255.250
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #100
+Timestamp: 2026-05-26 22:11:08
+Source IP: 192.168.1.2
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
+
+Packet #101
+Timestamp: 2026-05-26 22:11:08
+Source IP: 192.168.1.11
+Destination IP: 224.0.0.22
+Protocol: Other
+Source Port: N/A
+Destination Port: N/A
