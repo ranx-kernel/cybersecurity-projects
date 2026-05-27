@@ -41,6 +41,12 @@ This project educates users about phishing attacks, fake websites, phishing emai
 
 [Download PowerPoint Presentation](./Phishing-Awareness-Training.pptx)
 
+
+## Live Demo
+
+[Click Here to View Live Website](https://ranx-kernel.github.io/codealpha_tasks/Task2_PhishingAwareness/)
+
+
 ## Learning Outcomes
 
 - Understanding phishing attacks
