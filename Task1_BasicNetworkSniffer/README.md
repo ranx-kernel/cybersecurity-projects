@@ -112,7 +112,7 @@ python gui_sniffer.py
 
 GUI Dashboard
 
-![Dashboard](./Screenshot 2026-05-26 221545.png)
+![Dashboard](./Screenshot%202026-05-26%20221545.png)
 
 
 
