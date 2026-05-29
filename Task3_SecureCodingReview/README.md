@@ -85,10 +85,9 @@ The Flask application was intentionally developed with multiple vulnerabilities 
 | Flask Debug Mode Exposure | High | A05 Security Misconfiguration |
 
 ---
-
 # Flask Application Preview
 
-![Flask Application](Screenshot%202026-05-29%141802.png)
+![Flask Application](Screenshot%202026-05-29%20141802.png)
 
 ---
 
@@ -113,7 +112,7 @@ python -m bandit -r .
 
 # Bandit Scan Result
 
-![Bandit Scan](Screenshot%202026-05-29%143934.png)
+![Bandit Scan](Screenshot%202026-05-29%20143934.png)
 
 ---
 
@@ -132,7 +131,7 @@ os.system(cmd)
 ```
 # Vulnerable Code Screenshot
 
-![Vulnerable Code](Screenshot%202026-05-29%144055.png)
+![Vulnerable Code](Screenshot%202026-05-29%20144055.png)
 
 
 ---
@@ -154,9 +153,11 @@ An advanced interactive dashboard was developed using Streamlit and Plotly to vi
 
 # Dashboard Preview
 
-![Dashboard](Screenshot%202026-05-29%143508.png)
-![Dashboard](Screenshot%202026-05-29%143529.png)
-![Dashboard](Screenshot%202026-05-29%143554.png)
+![Dashboard](Screenshot%202026-05-29%20143508.png)
+
+![Dashboard](Screenshot%202026-05-29%20143529.png)
+
+![Dashboard](Screenshot%202026-05-29%20143554.png)
 
 
 ---
@@ -198,7 +199,7 @@ password = hashlib.sha256(
 
 # Secure Code Screenshot
 
-![Secure Code](Screenshot%202026-05-29%144042.png)
+![Secure Code](Screenshot%202026-05-29%20144042.png)
 
 ---
 
